@@ -13,4 +13,4 @@ this is the official and original skin.
 - Compatible with /skin url command
 - Permanently hosted on GitHub
 
-## 🔹 How to use in Minecraft
+
